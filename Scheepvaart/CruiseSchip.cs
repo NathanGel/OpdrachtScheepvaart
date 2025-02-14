@@ -6,5 +6,8 @@ using System.Threading.Tasks;
 
 namespace Scheepvaart {
     class CruiseSchip : Schip {
+        public int AantalPassagiers { get; set; }
+        public List<Haven> Traject { get; set; }
+
     }
 }
