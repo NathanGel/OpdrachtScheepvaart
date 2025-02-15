@@ -10,7 +10,10 @@
         public double Tonnage { get; set; }
         public string Naam { get; set; }
 
-
+        public void GetInfo()
+        {
+            //aanvullen
+        }
         /*Methode toevoegen : 
          getInfo() : string*/
     }
