@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Scheepvaart {
+    enum ladingOlie {olie, benzeen, diesel, nafta};
     class OlieTanker : Schip, ICargowaarde, ITanker
     {
 

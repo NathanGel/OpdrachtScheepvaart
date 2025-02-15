@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Scheepvaart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98690a9318137f8a4e786bd5ba68d3b61017d246")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b2a805ba1ed40abf42cc1e4e20c81d0b6322940")]
 [assembly: System.Reflection.AssemblyProductAttribute("Scheepvaart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Scheepvaart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
