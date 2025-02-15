@@ -1,0 +1,5 @@
+C:\Users\natha\softwareontwerp\OpdrachtScheepvaart\Scheepvaart\obj\Debug\net9.0\Scheepvaart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\softwareontwerp\OpdrachtScheepvaart\Scheepvaart\obj\Debug\net9.0\Scheepvaart.AssemblyInfoInputs.cache
+C:\Users\natha\softwareontwerp\OpdrachtScheepvaart\Scheepvaart\obj\Debug\net9.0\Scheepvaart.AssemblyInfo.cs
+C:\Users\natha\softwareontwerp\OpdrachtScheepvaart\Scheepvaart\obj\Debug\net9.0\Scheepvaart.csproj.CoreCompileInputs.cache
+C:\Users\natha\softwareontwerp\OpdrachtScheepvaart\Scheepvaart\obj\Debug\net9.0\Scheepvaart.sourcelink.json

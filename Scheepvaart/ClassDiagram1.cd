@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Scheepvaart.ContainerSchip" Collapsed="true">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>ContainerSchip.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.917" />
+  </Class>
+  <Class Name="Scheepvaart.Rederij" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAGgAAAJAAAAFAQABFAAACAkAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Rederij.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheepvaart.Schip" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABADAAAAAAEAAQAAAAAAAAAA=</HashCode>
+      <FileName>Schip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheepvaart.CruiseSchip" Collapsed="true">
+    <Position X="8.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CruiseSchip.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.887" />
+  </Class>
+  <Class Name="Scheepvaart.GasTanker" Collapsed="true">
+    <Position X="13.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAgA=</HashCode>
+      <FileName>GasTanker.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.887" />
+  </Class>
+  <Class Name="Scheepvaart.OlieTanker" Collapsed="true">
+    <Position X="10" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAgA=</HashCode>
+      <FileName>OlieTanker.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.977" />
+  </Class>
+  <Class Name="Scheepvaart.RoRoSchip" Collapsed="true">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgA=</HashCode>
+      <FileName>RoRoSchip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheepvaart.Sleepboot" Collapsed="true">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sleepboot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheepvaart.Veerboot" Collapsed="true">
+    <Position X="11.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Veerboot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheepvaart.Vloot" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEgAAAAAAAAAAgABACAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vloot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheepvaart.Haven" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Haven.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Scheepvaart.ICargowaarde" Collapsed="true">
+    <Position X="16.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>ICargowaarde.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Scheepvaart.IPassagiers" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPassagiers.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Scheepvaart.ITanker" Collapsed="true">
+    <Position X="16.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>ITanker.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Scheepvaart.LadingGas" Collapsed="true">
+    <Position X="16.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAIAA=</HashCode>
+      <FileName>GasTanker.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

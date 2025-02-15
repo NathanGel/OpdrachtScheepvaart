@@ -3,48 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\schip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\schip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\olietanker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\olietanker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\itanker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\itanker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\ipassagiers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\ipassagiers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\rederij.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\rederij.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\haven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\haven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\cruiseschip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\cruiseschip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\veerboot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\veerboot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\gastanker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\gastanker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\icargowaarde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\icargowaarde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\veerboot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\veerboot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\sleepboot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\sleepboot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\rederij.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\rederij.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\olietanker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\olietanker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\vloot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,12 +35,36 @@
       "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\roroschip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\containerschip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\containerschip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\itanker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\itanker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\schip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\schip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\containerschip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\containerschip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\ipassagiers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\ipassagiers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\icargowaarde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\icargowaarde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\cruiseschip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\cruiseschip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\sleepboot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|solutionrelative:scheepvaart\\sleepboot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0C9845D-EAA9-468E-91FA-CAD7DE050287}|Scheepvaart\\Scheepvaart.csproj|c:\\users\\norae\\downloads\\hogent\\2025\\softwareontwerp 2\\haven\\opdrachtscheepvaart\\scheepvaart\\scheepvaart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -74,11 +78,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Scheepvaart\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\ClassDiagram1.cd",
+              "RelativeToolTip": "Scheepvaart\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-02-15T19:33:20.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GasTanker.cs",
+              "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\GasTanker.cs",
+              "RelativeDocumentMoniker": "Scheepvaart\\GasTanker.cs",
+              "ToolTip": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\GasTanker.cs",
+              "RelativeToolTip": "Scheepvaart\\GasTanker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T19:07:46.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OlieTanker.cs",
+              "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\OlieTanker.cs",
+              "RelativeDocumentMoniker": "Scheepvaart\\OlieTanker.cs",
+              "ToolTip": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\OlieTanker.cs",
+              "RelativeToolTip": "Scheepvaart\\OlieTanker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T19:06:43.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContainerSchip.cs",
+              "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\ContainerSchip.cs",
+              "RelativeDocumentMoniker": "Scheepvaart\\ContainerSchip.cs",
+              "ToolTip": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\ContainerSchip.cs",
+              "RelativeToolTip": "Scheepvaart\\ContainerSchip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:29:01.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Sleepboot.cs",
               "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\Sleepboot.cs",
               "RelativeDocumentMoniker": "Scheepvaart\\Sleepboot.cs",
@@ -90,16 +153,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "ITanker.cs",
               "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\ITanker.cs",
               "RelativeDocumentMoniker": "Scheepvaart\\ITanker.cs",
@@ -112,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "IPassagiers.cs",
               "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\IPassagiers.cs",
               "RelativeDocumentMoniker": "Scheepvaart\\IPassagiers.cs",
@@ -125,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "ICargowaarde.cs",
               "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\ICargowaarde.cs",
               "RelativeDocumentMoniker": "Scheepvaart\\ICargowaarde.cs",
@@ -138,46 +193,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Haven.cs",
               "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\Haven.cs",
               "RelativeDocumentMoniker": "Scheepvaart\\Haven.cs",
               "ToolTip": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\Haven.cs",
               "RelativeToolTip": "Scheepvaart\\Haven.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T18:03:16.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoRoSchip.cs",
+              "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\RoRoSchip.cs",
+              "RelativeDocumentMoniker": "Scheepvaart\\RoRoSchip.cs",
+              "ToolTip": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\RoRoSchip.cs",
+              "RelativeToolTip": "Scheepvaart\\RoRoSchip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T19:01:47.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "GasTanker.cs",
-              "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\GasTanker.cs",
-              "RelativeDocumentMoniker": "Scheepvaart\\GasTanker.cs",
-              "ToolTip": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\GasTanker.cs",
-              "RelativeToolTip": "Scheepvaart\\GasTanker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Title": "Vloot.cs",
+              "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\Vloot.cs",
+              "RelativeDocumentMoniker": "Scheepvaart\\Vloot.cs",
+              "ToolTip": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\Vloot.cs",
+              "RelativeToolTip": "Scheepvaart\\Vloot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T19:07:46.074Z",
+              "WhenOpened": "2025-02-14T18:52:02.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OlieTanker.cs",
-              "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\OlieTanker.cs",
-              "RelativeDocumentMoniker": "Scheepvaart\\OlieTanker.cs",
-              "ToolTip": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\OlieTanker.cs",
-              "RelativeToolTip": "Scheepvaart\\OlieTanker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T19:06:43.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Veerboot.cs",
               "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\Veerboot.cs",
               "RelativeDocumentMoniker": "Scheepvaart\\Veerboot.cs",
@@ -190,72 +245,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CruiseSchip.cs",
-              "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\CruiseSchip.cs",
-              "RelativeDocumentMoniker": "Scheepvaart\\CruiseSchip.cs",
-              "ToolTip": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\CruiseSchip.cs",
-              "RelativeToolTip": "Scheepvaart\\CruiseSchip.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T19:02:43.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RoRoSchip.cs",
-              "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\RoRoSchip.cs",
-              "RelativeDocumentMoniker": "Scheepvaart\\RoRoSchip.cs",
-              "ToolTip": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\RoRoSchip.cs",
-              "RelativeToolTip": "Scheepvaart\\RoRoSchip.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T19:01:47.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Schip.cs",
-              "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\Schip.cs",
-              "RelativeDocumentMoniker": "Scheepvaart\\Schip.cs",
-              "ToolTip": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\Schip.cs",
-              "RelativeToolTip": "Scheepvaart\\Schip.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T18:57:20.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Vloot.cs",
-              "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\Vloot.cs",
-              "RelativeDocumentMoniker": "Scheepvaart\\Vloot.cs",
-              "ToolTip": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\Vloot.cs",
-              "RelativeToolTip": "Scheepvaart\\Vloot.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAA0wEYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T18:52:02.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "Rederij.cs",
               "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\Rederij.cs",
               "RelativeDocumentMoniker": "Scheepvaart\\Rederij.cs",
               "ToolTip": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\Rederij.cs",
               "RelativeToolTip": "Scheepvaart\\Rederij.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAiwFsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T18:46:45.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\Program.cs",
               "RelativeDocumentMoniker": "Scheepvaart\\Program.cs",
@@ -268,19 +271,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ContainerSchip.cs",
-              "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\ContainerSchip.cs",
-              "RelativeDocumentMoniker": "Scheepvaart\\ContainerSchip.cs",
-              "ToolTip": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\ContainerSchip.cs",
-              "RelativeToolTip": "Scheepvaart\\ContainerSchip.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Schip.cs",
+              "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\Schip.cs",
+              "RelativeDocumentMoniker": "Scheepvaart\\Schip.cs",
+              "ToolTip": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\Schip.cs",
+              "RelativeToolTip": "Scheepvaart\\Schip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T15:29:01.75Z"
+              "WhenOpened": "2025-02-14T18:57:20.775Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
+              "Title": "CruiseSchip.cs",
+              "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\CruiseSchip.cs",
+              "RelativeDocumentMoniker": "Scheepvaart\\CruiseSchip.cs",
+              "ToolTip": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\CruiseSchip.cs",
+              "RelativeToolTip": "Scheepvaart\\CruiseSchip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T19:02:43.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Scheepvaart.csproj",
               "DocumentMoniker": "C:\\Users\\norae\\Downloads\\HOGENT\\2025\\SoftwareOntwerp 2\\Haven\\OpdrachtScheepvaart\\Scheepvaart\\Scheepvaart.csproj",
               "RelativeDocumentMoniker": "Scheepvaart\\Scheepvaart.csproj",
