@@ -5,9 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Scheepvaart {
-    class OlieTanker : Schip {
+    class OlieTanker : Schip, ICargowaarde, ITanker
+    {
 
-        public double CargoWaarde { get; set; }
+        public double Cargowaarde { get; set; }
         public double Volume { get; set; }
         public string Lading { get; set; } //enum gebruiken? --> olie, benzeen, diesel, nafta
     }

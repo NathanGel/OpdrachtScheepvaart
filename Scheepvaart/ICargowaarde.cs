@@ -4,8 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Scheepvaart {
-    class Haven {
-        public string Naam { get; set; }
+namespace Scheepvaart
+{
+    interface ICargowaarde
+    {
+        double Cargowaarde {  get; }
     }
 }

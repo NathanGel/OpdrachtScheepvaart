@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Scheepvaart {
-    class ContainerSchip : Schip {
+    class ContainerSchip : Schip, ICargowaarde {
         public int aantalContainers { get; set; }
         public double Cargowaarde { get; set; }
 

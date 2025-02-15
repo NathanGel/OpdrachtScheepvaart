@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Scheepvaart {
-    class CruiseSchip : Schip {
+    class CruiseSchip : Schip, IPassagiers {
         public int AantalPassagiers { get; set; }
         public List<Haven> Traject { get; set; }
 
