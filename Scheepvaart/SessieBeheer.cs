@@ -175,7 +175,9 @@ namespace Scheepvaart
             } catch (Exception e) {
                 Console.WriteLine(e);
             }
-            Console.WriteLine("Wijzigingen geregistreerd.");
+            if (keuze == "1" || keuze == "2" || keuze == "3" || keuze == "4" || keuze == "5" || keuze == "6" || keuze == "7") {
+                 Console.WriteLine("Wijzigingen geregistreerd.");
+            }
             Console.Write("Druk op een toets om verder te gaan.");
             Console.ReadKey();
         }
