@@ -12,6 +12,7 @@ namespace Scheepvaart
 
         public void Start() {
             while (true) {
+                Console.Clear();
                 Console.WriteLine("-------------------------------");
                 Console.WriteLine("|             MENU            |");
                 Console.WriteLine("-------------------------------");
@@ -43,133 +44,140 @@ namespace Scheepvaart
 
         private void VerwerkKeuze(string keuze) {
             Console.Clear();
-            switch (keuze) {
-                case "1":
-                    Console.Write("Naam van de vloot: ");
-                    string naamVloot = Console.ReadLine();
-                    rederij.VoegVlootToe(new Vloot { Naam = naamVloot });
-                    break;
-                case "2":
-                    Console.Write("Naam van de vloot: ");
-                    string verwijderNaam = Console.ReadLine();
-                    rederij.VerwijderVloot(verwijderNaam);
-                    break;
-                case "3":
-                    Console.Write("Naam van het schip: ");
-                    string naamSchipToevoegen = Console.ReadLine();
-                    Console.Write("Naam van de vloot waaraan je het schip wilt toevoegen: ");
-                    string vlootNaamToevoegen = Console.ReadLine();
-                    
-                    Console.WriteLine("Wat voor soort schip wil je toevoegen?");
-                    Console.WriteLine("1. Sleepboot");
-                    Console.WriteLine("2. Containerschip");
-                    Console.WriteLine("3. Cruiseschip");
-                    Console.WriteLine("4. Olietanker");
-                    Console.WriteLine("5. GasTanker");
-                    Console.Write("Keuze:");
-                    string schipKeuze = Console.ReadLine();
+            try {
+                switch (keuze) {
+                    case "1":
+                        Console.Write("Naam van de vloot: ");
+                        string naamVloot = Console.ReadLine();
+                        rederij.VoegVlootToe(new Vloot { Naam = naamVloot });
+                        break;
+                    case "2":
+                        Console.Write("Naam van de vloot: ");
+                        string verwijderNaam = Console.ReadLine();
+                        rederij.VerwijderVloot(verwijderNaam);
+                        break;
+                    case "3":
+                        Console.Write("Naam van het schip: ");
+                        string naamSchipToevoegen = Console.ReadLine();
+                        Console.Write("Naam van de vloot waaraan je het schip wilt toevoegen: ");
+                        string vlootNaamToevoegen = Console.ReadLine();
 
-                    Schip schip = null;
-                    switch (schipKeuze) {
-                        case "1":
-                            schip = new Sleepboot { Naam = naamSchipToevoegen };
-                            break;
-                        case "2":
-                            Console.Write("Aantal containers: ");
-                            int containers = int.Parse(Console.ReadLine());
-                            Console.Write("Cargowaarde: ");
-                            double cargowaarde = double.Parse(Console.ReadLine());
-                            schip = new ContainerSchip { Naam = naamSchipToevoegen, AantalContainers = containers, Cargowaarde = cargowaarde };
-                            break;
-                        case "3":
-                            Console.Write("Aantal passagiers: ");
-                            int passagiers = int.Parse(Console.ReadLine());
-                            schip = new CruiseSchip { Naam = naamSchipToevoegen, AantalPassagiers = passagiers };
-                            break;
-                        case "4":
-                            Console.Write("Volume: ");
-                            int volume = int.Parse(Console.ReadLine());
-                            Console.Write("Lading (olie, benzeen, diesel, nafta): ");
-                            string olieLading = Console.ReadLine();
-                            schip = new OlieTanker { Naam = naamSchipToevoegen, Volume = volume, Lading = olieLading };
-                            break;
-                        case "5":
-                            Console.Write("Volume: ");
-                            volume = int.Parse(Console.ReadLine());
-                            Console.Write("Lading (lpg, lnp, ammoniak): ");
-                            string gasLading = Console.ReadLine();
-                            schip = new GasTanker { Naam = naamSchipToevoegen, Volume = volume, Lading = gasLading };
-                            break;
-                        default:
-                            Console.WriteLine("Ongeldige keuze.");
-                            return;
-                    }
+                        Console.WriteLine("Wat voor soort schip wil je toevoegen?");
+                        Console.WriteLine("1. Sleepboot");
+                        Console.WriteLine("2. Containerschip");
+                        Console.WriteLine("3. Cruiseschip");
+                        Console.WriteLine("4. Olietanker");
+                        Console.WriteLine("5. GasTanker");
+                        Console.Write("Keuze:");
+                        string schipKeuze = Console.ReadLine();
 
-                    try {
-                        rederij.VoegSchipToe(schip, vlootNaamToevoegen);
-                        Console.WriteLine($"Schip {naamSchipToevoegen} toegevoegd aan vloot {vlootNaamToevoegen}.");
-                    } catch (Exception ex) {
-                        Console.WriteLine($"Fout: {ex.Message}");
-                    }
-                    break;
-                case "4":
-                    Console.Write("Naam van het schip: ");
-                    string naamSchipVerwijderen = Console.ReadLine();
-                    rederij.VerwijderSchip(naamSchipVerwijderen);
-                    break;
-                case "5":
-                    Console.Write("Naam van het schip: ");
-                    string schipNaamVerplaatsen = Console.ReadLine();
-                    Console.Write("Nieuwe vloot naam: ");
-                    string nieuweVlootNaam = Console.ReadLine();
-                    rederij.VerplaatsSchip(schipNaamVerplaatsen, nieuweVlootNaam);
-                    break;
-                case "6":
-                    Console.Write("Naam van de haven: ");
-                    string naamHaven = Console.ReadLine();
-                    rederij.VoegHavenToe(naamHaven);
-                    break;
-                case "7":
-                    Console.Write("Naam van de haven: ");
-                    string verwijderHaven = Console.ReadLine();
-                    rederij.VerwijderHaven(verwijderHaven);
-                    break;
-                case "8":
-                    Console.WriteLine("Havens: " + string.Join(", ", rederij.OverzichtHavens()));
-                    break;
-                case "9":
-                    Console.Write("Zoek schip op naam: ");
-                    string schipNaamZoeken = Console.ReadLine();
-                    Console.WriteLine(rederij.SchipInfo(schipNaamZoeken));
-                    break;
-                case "10":
-                    foreach (var item in rederij.Vloten) {
-                        Console.WriteLine($"Vloot {item.Key}:");
-                        foreach (var schip_ in item.Value.Schepen.Values) {
-                            Console.WriteLine($" - {schip_.Naam}");
+                        Schip schip = null;
+                        switch (schipKeuze) {
+                            case "1":
+                                schip = new Sleepboot { Naam = naamSchipToevoegen };
+                                break;
+                            case "2":
+                                Console.Write("Aantal containers: ");
+                                int containers = int.Parse(Console.ReadLine());
+                                Console.Write("Cargowaarde: ");
+                                double cargowaarde = double.Parse(Console.ReadLine());
+                                schip = new ContainerSchip { Naam = naamSchipToevoegen, AantalContainers = containers, Cargowaarde = cargowaarde };
+                                break;
+                            case "3":
+                                Console.Write("Aantal passagiers: ");
+                                int passagiers = int.Parse(Console.ReadLine());
+                                schip = new CruiseSchip { Naam = naamSchipToevoegen, AantalPassagiers = passagiers };
+                                break;
+                            case "4":
+                                Console.Write("Volume: ");
+                                int volume = int.Parse(Console.ReadLine());
+                                Console.Write("Lading (olie, benzeen, diesel, nafta): ");
+                                string olieLading = Console.ReadLine();
+                                schip = new OlieTanker { Naam = naamSchipToevoegen, Volume = volume, Lading = olieLading };
+                                break;
+                            case "5":
+                                Console.Write("Volume: ");
+                                volume = int.Parse(Console.ReadLine());
+                                Console.Write("Lading (lpg, lnp, ammoniak): ");
+                                string gasLading = Console.ReadLine();
+                                schip = new GasTanker { Naam = naamSchipToevoegen, Volume = volume, Lading = gasLading };
+                                break;
+                            default:
+                                Console.WriteLine("Ongeldige keuze.");
+                                return;
                         }
-                    }
-                    break;
-                case "11":
-                    Console.WriteLine($"Totale cargowaarde: {rederij.TotaleCargowaarde():C}");
-                    break;
-                case "12":
-                    Console.WriteLine($"Totaal aantal passagiers: {rederij.TotaalPassagiers()}");
-                    break;
-                case "13":
-                    foreach (var item in rederij.TonnagePerVloot())
-                        Console.WriteLine($"{item.Key}: {item.Value} ton");
-                    break;
-                case "14":
-                    Console.WriteLine($"Totaal volume tankers: {rederij.TotaalVolumeTankers()} liter");
-                    break;
-                case "15":
-                    Console.WriteLine("Beschikbare sleepboten: " + string.Join(", ", rederij.BeschikbareSleepboten()));
-                    break;
-                default:
-                    Console.WriteLine("Ongeldige optie.");
-                    break;
+
+                        try {
+                            rederij.VoegSchipToe(schip, vlootNaamToevoegen);
+                            Console.WriteLine($"Schip {naamSchipToevoegen} toegevoegd aan vloot {vlootNaamToevoegen}.");
+                        } catch (Exception ex) {
+                            Console.WriteLine($"Fout: {ex.Message}");
+                        }
+                        break;
+                    case "4":
+                        Console.Write("Naam van het schip: ");
+                        string naamSchipVerwijderen = Console.ReadLine();
+                        rederij.VerwijderSchip(naamSchipVerwijderen);
+                        break;
+                    case "5":
+                        Console.Write("Naam van het schip: ");
+                        string schipNaamVerplaatsen = Console.ReadLine();
+                        Console.Write("Nieuwe vloot naam: ");
+                        string nieuweVlootNaam = Console.ReadLine();
+                        rederij.VerplaatsSchip(schipNaamVerplaatsen, nieuweVlootNaam);
+                        break;
+                    case "6":
+                        Console.Write("Naam van de haven: ");
+                        string naamHaven = Console.ReadLine();
+                        rederij.VoegHavenToe(naamHaven);
+                        break;
+                    case "7":
+                        Console.Write("Naam van de haven: ");
+                        string verwijderHaven = Console.ReadLine();
+                        rederij.VerwijderHaven(verwijderHaven);
+                        break;
+                    case "8":
+                        Console.WriteLine("Havens: " + string.Join(", ", rederij.OverzichtHavens()));
+                        break;
+                    case "9":
+                        Console.Write("Zoek schip op naam: ");
+                        string schipNaamZoeken = Console.ReadLine();
+                        Console.WriteLine(rederij.SchipInfo(schipNaamZoeken));
+                        break;
+                    case "10":
+                        foreach (var item in rederij.Vloten) {
+                            Console.WriteLine($"Vloot {item.Key}:");
+                            foreach (var schip_ in item.Value.Schepen.Values) {
+                                Console.WriteLine($" - {schip_.Naam}");
+                            }
+                        }
+                        break;
+                    case "11":
+                        Console.WriteLine($"Totale cargowaarde: {rederij.TotaleCargowaarde():C}");
+                        break;
+                    case "12":
+                        Console.WriteLine($"Totaal aantal passagiers: {rederij.TotaalPassagiers()}");
+                        break;
+                    case "13":
+                        foreach (var item in rederij.TonnagePerVloot())
+                            Console.WriteLine($"{item.Key}: {item.Value} ton");
+                        break;
+                    case "14":
+                        Console.WriteLine($"Totaal volume tankers: {rederij.TotaalVolumeTankers()} liter");
+                        break;
+                    case "15":
+                        Console.WriteLine("Beschikbare sleepboten: " + string.Join(", ", rederij.BeschikbareSleepboten()));
+                        break;
+                    default:
+                        Console.WriteLine("Ongeldige optie.");
+                        break;
+                }
+            } catch (Exception e) {
+                Console.WriteLine(e);
             }
+            Console.WriteLine("Wijzigingen geregistreerd.");
+            Console.Write("Druk op een toets om verder te gaan.");
+            Console.ReadKey();
         }
     }
 }
