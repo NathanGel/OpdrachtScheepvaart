@@ -5,9 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Scheepvaart {
-    class Veerboot : Schip {
+    public class Veerboot : Schip, IPassagiers {
         public int AantalPassagiers { get; set; }
-        public string Traject { get; set; } //idk yet , vast traject tussen twee havens
+        public string Haven1 { get; set; }
+        public string Haven2 { get; set; }
 
+        public override string ToString() => $"Veerboot {Naam}: Passagiers={AantalPassagiers}, Route={Haven1}-{Haven2}";
     }
 }

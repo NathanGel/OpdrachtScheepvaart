@@ -7,14 +7,10 @@
     {
         public double Lengte { get; set; }
         public double Breedte { get; set; }
-        public double Tonnage { get; set; }
+        public int Tonnage { get; set; }
         public string Naam { get; set; }
+        public Vloot HuidigeVloot { get; set; } //Nog eens nagelezen en je moet een schip van vloot kunnen wijzigen
 
-        public void GetInfo()
-        {
-            //aanvullen
-        }
-        /*Methode toevoegen : 
-         getInfo() : string*/
+        public abstract override string ToString();
     }
 }

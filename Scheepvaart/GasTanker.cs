@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace Scheepvaart {
     enum LadingGas {lpg, lnp, ammoniak}
-    class GasTanker : Schip, ICargowaarde {
+    public class GasTanker : Schip, ICargowaarde {
         public double Cargowaarde { get; set; }
-        public double Volume { get; set; }
+        public int Volume { get; set; }
         public string Lading { get; set; } //enum gebruiken? --> lpg, lnp, ammoniak
+        public override string ToString() => $"Gastanker {Naam}: Cargo={Cargowaarde:C}, Volume={Volume}L, Lading={Lading}";
     }
 }

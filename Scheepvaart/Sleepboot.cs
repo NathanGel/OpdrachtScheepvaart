@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Scheepvaart {
-    internal class Sleepboot : Schip {
+    public class Sleepboot : Schip {
+        public override string ToString() => $"Sleepboot {Naam}";
     }
 }

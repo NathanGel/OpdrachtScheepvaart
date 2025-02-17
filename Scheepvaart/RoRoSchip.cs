@@ -5,9 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Scheepvaart {
-    class RoRoSchip : Schip {
+    public class RoRoSchip : Schip, ICargowaarde {
         public int AantalAutos { get; set; }
         public int AantalTrucks { get; set; }
-        public double CargoWaarde { get; set; }
+        public double Cargowaarde { get; set; }
+
+        public override string ToString() => $"RoRoschip {Naam}: Autos={AantalAutos}, Trucks={AantalTrucks}, Cargo={Cargowaarde:C}";
+
     }
 }

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Scheepvaart {
-    class Haven {
+    public class Haven {
         public string Naam { get; set; }
     }
 }

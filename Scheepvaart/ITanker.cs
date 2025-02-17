@@ -8,6 +8,6 @@ namespace Scheepvaart
 {
     interface ITanker
     {
-        double Volume { get; }
+        int Volume { get; }
     }
 }
