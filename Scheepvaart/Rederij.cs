@@ -51,7 +51,6 @@ namespace Scheepvaart {
             nieuweVloot.VoegSchipToe(schip);
         }
 
-        // Rapportage methoden
         public double TotaleCargowaarde() {
             return AlleSchepen.Values.Sum(s =>
                 s switch {

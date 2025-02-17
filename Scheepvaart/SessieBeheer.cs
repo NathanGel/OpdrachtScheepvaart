@@ -66,6 +66,7 @@ namespace Scheepvaart
                     Console.WriteLine("3. Cruiseschip");
                     Console.WriteLine("4. Olietanker");
                     Console.WriteLine("5. GasTanker");
+                    Console.Write("Keuze:");
                     string schipKeuze = Console.ReadLine();
 
                     Schip schip = null;
