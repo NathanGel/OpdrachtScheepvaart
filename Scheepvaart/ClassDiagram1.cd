@@ -3,7 +3,7 @@
   <Class Name="Scheepvaart.ContainerSchip" Collapsed="true">
     <Position X="6.5" Y="2.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAABAAAAAAAAAAAAAgA=</HashCode>
       <FileName>ContainerSchip.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.917" />
@@ -11,21 +11,21 @@
   <Class Name="Scheepvaart.Rederij" Collapsed="true">
     <Position X="13.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAGgAAAJAAAAFAQABFAAACAkAAAAAAAAAAAAAIA=</HashCode>
+      <HashCode>AAAAAAGgAAAIAAAAFKQABFAAACAggAAAAgAAIAIIAAA=</HashCode>
       <FileName>Rederij.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Scheepvaart.Schip" Collapsed="true">
     <Position X="8.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAABADAAAAAAEAAQAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAJADAAAAAAAAAQAAAAAAAAAA=</HashCode>
       <FileName>Schip.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Scheepvaart.CruiseSchip" Collapsed="true">
     <Position X="8.25" Y="2.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAgAAAAAAEAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>CruiseSchip.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.887" />
@@ -33,7 +33,7 @@
   <Class Name="Scheepvaart.GasTanker" Collapsed="true">
     <Position X="13.5" Y="2.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAgA=</HashCode>
+      <HashCode>AEAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAIAAAAAAgA=</HashCode>
       <FileName>GasTanker.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.887" />
@@ -41,7 +41,7 @@
   <Class Name="Scheepvaart.OlieTanker" Collapsed="true">
     <Position X="10" Y="2.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAgA=</HashCode>
+      <HashCode>AEAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAIAAAAAAgA=</HashCode>
       <FileName>OlieTanker.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.977" />
@@ -49,28 +49,30 @@
   <Class Name="Scheepvaart.RoRoSchip" Collapsed="true">
     <Position X="4.75" Y="2.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgA=</HashCode>
+      <HashCode>AAAIAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAACgA=</HashCode>
       <FileName>RoRoSchip.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="Scheepvaart.Sleepboot" Collapsed="true">
     <Position X="3" Y="2.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Sleepboot.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Scheepvaart.Veerboot" Collapsed="true">
     <Position X="11.75" Y="2.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAgAAAAAAEAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Veerboot.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="Scheepvaart.Vloot" Collapsed="true">
     <Position X="10.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAEgAAAAAAAAAAgABACAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAgABAAAAAAAAAAAAAAAIAAIAAA=</HashCode>
       <FileName>Vloot.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -79,6 +81,20 @@
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Haven.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheepvaart.Program" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scheepvaart.SessieBeheer" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>SessieBeheer.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Interface Name="Scheepvaart.ICargowaarde" Collapsed="true">
